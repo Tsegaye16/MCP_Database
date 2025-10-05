@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+python-dotenv
+SQLAlchemy
+psycopg2-binary
+langchain
+langchain-community
+langgraph
+langchain-google-genai
+pydantic
+pandas
